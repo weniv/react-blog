@@ -48,11 +48,11 @@
 	padding-left: 2.4rem;
 	border: 1px solid rgba(var(--main-rgb), 0.5);
 	border-radius: var(--border-radius);
-	background: var(--white-color) url(../../assets/icon-save.svg) no-repeat 2rem 50% / 1.6rem;
+	background: var(--white-color) url(../assets/icon-save.svg) no-repeat 2rem 50% / 1.6rem;
 	transition: all 0.3s;
 }
 .btn-save:hover {
-	background: var(--main-color) url(../../assets/icon-save-white.svg) no-repeat 2rem 50% / 1.6rem;
+	background: var(--main-color) url(../assets/icon-save-white.svg) no-repeat 2rem 50% / 1.6rem;
 	color: var(--white-color);
 }
 
@@ -61,7 +61,7 @@
 	width: 6.4rem;
 	height: 6.4rem;
 	border-radius: 0 var(--border-radius) var(--border-radius) 0;
-	background: var(--gray-background) url(../../assets/ArrowLeft-blue.svg) no-repeat 50% 50% / 4rem;
+	background: var(--gray-background) url(../assets/ArrowLeft-blue.svg) no-repeat 50% 50% / 4rem;
 	font-size: 1.6rem;
 }
 
@@ -71,12 +71,12 @@
 	padding-left: 3rem;
 	border: 1px solid rgba(var(--red-rgb), 0.5);
 	border-radius: var(--border-radius);
-	background: var(--white-color) url(../../assets/icon-like.svg) no-repeat 2.5rem 50% / 2.4rem;
+	background: var(--white-color) url(../assets/icon-like.svg) no-repeat 2.5rem 50% / 2.4rem;
 	transition: all 0.3s;
 }
 .btn-like:hover,
 .btn-like.active {
-	background: var(--red-color) url(../../assets/icon-like-white.svg) no-repeat 2.5rem 50% / 2.4rem;
+	background: var(--red-color) url(../assets/icon-like-white.svg) no-repeat 2.5rem 50% / 2.4rem;
 	color: var(--white-color);
 }
 .btn-like:focus {
@@ -93,17 +93,17 @@
 	transition: all 0.3s;
 }
 .btn-modify {
-	background: var(--gray-background) url(../../assets/icon-modify.svg) no-repeat 50% 50% / 1.6rem;
+	background: var(--gray-background) url(../assets/icon-modify.svg) no-repeat 50% 50% / 1.6rem;
 	right: 13rem;
 }
 .btn-modify:hover {
-	background: var(--main-color) url(../../assets/icon-modify-white.svg) no-repeat 50% 50% / 1.6rem;
+	background: var(--main-color) url(../assets/icon-modify-white.svg) no-repeat 50% 50% / 1.6rem;
 }
 
 .btn-delete {
-	background: var(--gray-background) url(../../assets/icon-delete.svg) no-repeat 50% 50% / 1.6rem;
+	background: var(--gray-background) url(../assets/icon-delete.svg) no-repeat 50% 50% / 1.6rem;
 }
 
 .btn-delete:hover {
-	background: var(--red-color) url(../../assets/icon-delete-white.svg) no-repeat 50% 50% / 1.6rem;
+	background: var(--red-color) url(../assets/icon-delete-white.svg) no-repeat 50% 50% / 1.6rem;
 }
