@@ -1,9 +1,9 @@
 {
-			"id": 4,
-			"thumbnail": "/assets/post-img4.jpg",
-			"title": "Dolor, voluptatem minima nobis ullam voluptate fugiat, idplaceat optio magni laborum iste!",
-			"mainBg": "/assets/post-background4.jpg",
-			"category": ["Tech", "Life"],
+			"id": 5,
+			"thumbnail": "/assets/post-img5.jpg",
+			"title": "Esse deserunt ducimus",
+			"mainBg": "/assets/post-background5.jpg",
+			"category": ["Sports", "Music", "Life"],
 			"profileImg": "/assets/profile.jpg",
 			"contents": [
 				{
@@ -12,13 +12,17 @@
 				},
 				{
 					"type": "img",
-					"src": "/assets/post-background4.jpg"
+					"src": "/assets/post-background5-1.jpg"
 				},
 				{
 					"type": "p",
 					"text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel."
+				},
+				{
+					"type": "img",
+					"src": "/assets/post-background5.jpg"
 				}
 			],
 			"userName": "Chilli",
-			"created": "2022.04.04"
+			"created": "2022.04.05"
 		}
