@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "email": "chilli@blog.com",
+        "profileImg": "/assets/profile.jpg",
+        "name": "Chilli",
+        "userInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "category": ["Life", "Style", "Tech", "Sport", "Photo", "Develop", "Music"],
+        "sns": { "GitHub": "", "Facebook": "", "Twitter": "", "Instagram": "" }
+    },
+    {
+        "id": 2,
+        "email": "binky@blog.com",
+        "profileImg": "/assets/profile.jpg",
+        "name": "Binky",
+        "userInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "category": ["Life", "Style", "Tech", "Sport", "Photo", "Develop", "Music"],
+        "sns": { "GitHub": "", "Facebook": "", "Twitter": "", "Instagram": "" }
+    }
+]
